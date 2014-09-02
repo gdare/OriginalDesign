@@ -1,3 +1,5 @@
+//Gregory Dare, Origianl Design, Block 3
+
 int x = 400;
 int y = 400;
 boolean doorOpen = false;
